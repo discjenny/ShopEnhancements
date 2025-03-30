@@ -1,6 +1,6 @@
 # Shop Enhancements
 
-A mod that enhances the shop experience in Lethal Company by adding more shelf space, configurable item counts, and price scaling options.
+A mod that enhances the shop experience in R.E.P.O. by adding more shelf space, configurable item counts, and price scaling options.
 
 ## Features
 
@@ -39,6 +39,11 @@ Individual maximum counts for each upgrade type:
 - Map Upgrades
 - Launch Upgrades
 - Range Upgrades
+
+### 🔄 Mod Compatibility
+- Seamless integration with other mods that add custom shop items
+- Custom items from other mods are preserved while still applying our shop enhancements
+- Shop space and item counts automatically adjust to accommodate modded items
 
 ## Configuration
 

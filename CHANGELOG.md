@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file.
 
 # Changelog
 
+## [2.0.1] - 03-30-2025
+
+### Added
+- Compatibility with other mods that add custom shop items
+- Automatic adjustment of shop space and item counts for modded items
+- Preservation of custom items while managing vanilla items
+
+### Changed
+- Improved shop item filtering to only remove vanilla items
+- Shop spawn limits now account for modded items in calculations
+- Better handling of item list management for mod compatibility
+
+### Fixed
+- Issue where custom modded items were being cleared from shop
+- Spawn limit calculations not considering modded items
+- Potential conflicts with other mods' shop items
+
 ## [2.0.0] - 03-29-2025
 
 ### Added
@@ -46,12 +63,6 @@ All notable changes to this project will be documented in this file.
 - Item spawning issues in multiplayer
 - Upgrade cost scaling inconsistencies
 - Various edge cases with item counts
-
-## [1.0.0] - Initial Release
-
-- Basic shop enhancements
-- Configurable upgrade item counts
-- Initial multiplayer support 
 
 ## [1.1.0] - 03-29-2025
 
